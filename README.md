@@ -33,7 +33,7 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 ### 3. Responsive Website
 - **Description:**  A front-end responsive website uses HTML for structure, CSS for styling, and Bootstrap for adapting the layout to different screen sizes. 
 - **Technologies:** HTML, CSS, Bootstrap, JavaScript
-- **Repository:** [Responsive Website](https://chongwei-fsd.github.io/ufashion/) (Link to GitHub repo)
+- **Repository:** [Responsive Website](https://chongwei-fsd.github.io/ufashion/) (Link to website)
 
 ## 🚀 Experience
 
