@@ -1,12 +1,59 @@
-- 👋 Hi, I’m @chongwei-fsd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Chong Wei Lew - Full Stack Developer
 
-<!---
-chongwei-fsd/chongwei-fsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue)](https://chongwei-fsd.github.io/portfolio/)
+
+Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 13-week Full Stack Developer bootcamp, transitioning from a successful 8-year career in design and web development. With hands-on experience in both front-end and back-end technologies, I bring a unique blend of technical and creative skills. 
+
+## 🛠 Tech Stack
+
+### Front-end:
+- HTML, CSS, JavaScript, React
+
+### Back-end:
+- Java (Spring Boot), Node.js, PHP, MySQL
+
+### Tools:
+- Git, GitHub, VS Code, IntelliJ, Postman
+
+### Design:
+- Adobe Photoshop, Illustrator, InDesign
+
+## 💡 Projects
+
+### 1. Interactive Maze Game
+- **Description:** Developed a single-player interactive maze game that tests logical thinking and problem-solving skills.
+- **Technologies:** JavaScript, HTML, CSS
+- **Repository:** [Maze Game](#) (Link to GitHub repo)
+
+### 2. Course Enrolment System
+- **Description:** Built a course enrolment program to manage student and course information effectively.
+- **Technologies:** Node.js, MySQL
+- **Repository:** [Course Enrolment](#) (Link to GitHub repo)
+
+### 3. E-Commerce Web Application
+- **Description:** Created a full-stack e-commerce web application with both front-end and back-end layers.
+- **Technologies:** React, Node.js, MySQL
+- **Repository:** [E-Commerce App](#) (Link to GitHub repo)
+
+## 🚀 Experience
+
+- **Jr Full Stack Developer | Generation Singapore** (July 2024 - Oct 2024)  
+  Completed an intensive 13-week bootcamp covering technical and soft skills through real-world projects.
+
+- **Graphic Designer | Asby Advertising Pte Ltd** (Mar 2013 - Nov 2021)  
+  Managed website updates, provided technical solutions for e-commerce platforms, and led cross-functional collaboration.
+
+- **Associate App Consultant | Central Provident Fund Board (CPFB)** (May 2022 - Nov 2022)  
+  Implemented test-driven development, performed QA checks, and optimized application performance.
+
+## 📚 Education
+- **Specialist Diploma in Full Stack Web Development** | Singapore Polytechnic (Oct 2022 - Aug 2023)
+- **Diploma in Engineering (Computer Network & Systems)** | Singapore Polytechnic (Oct 2019 - Feb 2022)
+- **Diploma in Web Technology** | Kaplan Singapore (Nov 2015 - July 2016)
+
+## 📫 Contact Me
+- **Email:** jacklew08@gmail.com
+- **Portfolio:** [chongwei-fsd.github.io/portfolio](https://chongwei-fsd.github.io/portfolio/)
+- **Phone:** +65-96784920
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
