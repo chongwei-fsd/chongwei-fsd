@@ -1,4 +1,4 @@
-# Chong Wei Lew - Full Stack Developer
+# Chong Wei Lew - Junior Full Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue)](https://chongwei-fsd.github.io/portfolio/)
 
