@@ -23,17 +23,17 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 ### 1. Interactive Maze Game
 - **Description:** Developed a single-player interactive maze game that tests logical thinking and problem-solving skills.
 - **Technologies:** JavaScript, HTML, CSS
-- **Repository:** [Maze Game](#) (Link to GitHub repo)
+- **Repository:** [Maze Game](https://github.com/chongwei-fsd/findthehat) (Link to GitHub repo)
 
 ### 2. Course Enrolment System
 - **Description:** Built a course enrolment program to manage student and course information effectively.
 - **Technologies:** Node.js, MySQL
-- **Repository:** [Course Enrolment](#) (Link to GitHub repo)
+- **Repository:** [Course Enrolment](https://github.com/chongwei-fsd/course_enrolment_prog) (Link to GitHub repo)
 
-### 3. E-Commerce Web Application
-- **Description:** Created a full-stack e-commerce web application with both front-end and back-end layers.
-- **Technologies:** React, Node.js, MySQL
-- **Repository:** [E-Commerce App](#) (Link to GitHub repo)
+### 3. Responsive Website
+- **Description:**  A front-end responsive website uses HTML for structure, CSS for styling, and Bootstrap for adapting the layout to different screen sizes. 
+- **Technologies:** HTML, CSS, Bootstrap, JavaScript
+- **Repository:** [Responsive Website](https://chongwei-fsd.github.io/ufashion/) (Link to GitHub repo)
 
 ## 🚀 Experience
 
