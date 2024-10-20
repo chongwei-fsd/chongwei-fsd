@@ -40,6 +40,12 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 - **Technologies:** HTML, CSS, React
 - **Repository:** [Fashion Store](https://github.com/chongwei-fsd/fashion_store_management_system/tree/main) (Link to GitHub repo)
 
+### 5. Spotify Playlist App
+- **Description:**  The Spotify Playlist system in React enables users to create playlists, add songs, and save the playlist to their Spotify account after logging in.
+- **Technologies:** HTML, CSS, React
+- **Repository:** [Spotify Playlist](https://cwspotify.surge.sh/) (Link to website)
+
+
 ## 🚀 Experience
 
 - **Jr Full Stack Developer | Generation Singapore** (July 2024 - Oct 2024)  
