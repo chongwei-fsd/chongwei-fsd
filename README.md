@@ -40,11 +40,12 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 - **Jr Full Stack Developer | Generation Singapore** (July 2024 - Oct 2024)  
   Completed an intensive 13-week bootcamp covering technical and soft skills through real-world projects.
 
+- **Associate App Consultant | Central Provident Fund Board (CPFB)** (May 2022 - Nov 2022)  
+  Implemented test-driven development, performed QA checks, and optimized application performance.
+
 - **Graphic Designer | Asby Advertising Pte Ltd** (Mar 2013 - Nov 2021)  
   Managed website updates, provided technical solutions for e-commerce platforms, and led cross-functional collaboration.
 
-- **Associate App Consultant | Central Provident Fund Board (CPFB)** (May 2022 - Nov 2022)  
-  Implemented test-driven development, performed QA checks, and optimized application performance.
 
 ## 📚 Education
 - **Specialist Diploma in Full Stack Web Development** | Singapore Polytechnic (Oct 2022 - Aug 2023)
