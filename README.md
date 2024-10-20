@@ -53,7 +53,7 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 
 ## 📫 Contact Me
 - **Email:** jacklew08@gmail.com
-- **Portfolio:** [chongwei-fsd.github.io/portfolio](https://chongwei-fsd.github.io/portfolio/)
+- **Portfolio:** [chongwei-portfolio](https://lewchongwei.netlify.app/)
 - **Phone:** +65-96784920
 
 Feel free to explore my repositories and reach out if you'd like to collaborate!
