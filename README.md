@@ -35,7 +35,7 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 - **Technologies:** HTML, CSS, Bootstrap, JavaScript
 - **Repository:** [Responsive Website](https://chongwei-fsd.github.io/ufashion/) (Link to website)
 
-- ### 4. Fashion Store Management System
+### 4. Fashion Store Management System
 - **Description:**  The Fashion Store Management System allows users to add, filter by type, and remove apparel items, streamlining inventory management with a clean, interactive interface.
 - **Technologies:** HTML, CSS, React
 - **Repository:** [Fashion Store](https://github.com/chongwei-fsd/fashion_store_management_system/tree/main) (Link to GitHub repo)
