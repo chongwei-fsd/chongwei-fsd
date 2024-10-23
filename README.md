@@ -44,6 +44,11 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 - **Description:**  The Spotify Playlist system in React enables users to create playlists, add songs, and save the playlist to their Spotify account after logging in.
 - **Technologies:** HTML, CSS, React
 - **Repository:** [Spotify Playlist](https://cwspotify.surge.sh/) (Link to website)
+  
+### 6. Financial Literacy, Full-Stack Dev
+- **Description:**  Create a user-friendly literacy game interface with coin display, user profile, and a voucher redemption page. Include secure login, game logic for earning coins, and an API for managing user data and rewards in a secure database.
+- **Technologies:** HTML, CSS, Bootstrap, Javascript, Java, SpringBoot, Mysql
+- **Repository:** [Littlefins](https://github.com/chongwei-fsd/littlefins) (Link to GitHub repo)
 
 
 ## 🚀 Experience
