@@ -7,7 +7,7 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 ## 🛠 Tech Stack
 
 ### Front-end:
-- HTML, CSS, JavaScript, React
+- HTML, CSS, JavaScript, React, Bootstrap
 
 ### Back-end:
 - Java (Spring Boot), Node.js, PHP, MySQL
