@@ -50,6 +50,11 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 - **Technologies:** HTML, CSS, Bootstrap, Javascript, Java, SpringBoot, Mysql
 - **Repository:** [Littlefins](https://github.com/chongwei-fsd/littlefins) (Link to GitHub repo)
 
+### 7. React Dynamic Routing
+- **Description:**  This React project leverages BrowserRouter, Routes, Route, and Link from react-router-dom for client-side routing, creating a smooth single-page application experience.
+- **Technologies:** HTML, CSS, React
+- **Repository:** [React Dynamic Routing](https://github.com/chongwei-fsd/react-dynamic-routing) (Link to GitHub repo)
+
 
 ## 🚀 Experience
 
