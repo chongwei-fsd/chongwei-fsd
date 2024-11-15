@@ -10,10 +10,13 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 - HTML, CSS, JavaScript, React, Bootstrap
 
 ### Back-end:
-- Java (Spring Boot), Node.js, PHP, MySQL
+- Java, Spring Boot, Node.js, PHP, MySQL, Python, FastAPI, OpenAI
+
+- ### Version Control:
+- Git, GitHub
 
 ### Tools:
-- Git, GitHub, VS Code, IntelliJ, Postman
+- VS Code, IntelliJ, Postman
 
 ### Design:
 - Adobe Photoshop, Illustrator, InDesign
