@@ -54,6 +54,11 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 - **Description:**  This React project leverages BrowserRouter, Routes, Route, and Link from react-router-dom for client-side routing, creating a smooth single-page application experience.
 - **Technologies:** HTML, CSS, React
 - **Repository:** [React Dynamic Routing](https://github.com/chongwei-fsd/react-dynamic-routing) (Link to GitHub repo)
+  
+### 8. Audio Transcription, Full-Stack Dev
+- **Description:**  The application is a full-stack solution with a React frontend, Python FastAPI backend, audio transcription using OpenAI's whisper-tiny model from Hugging Face, SQLite storage, and both frontend and backend services containerized with Docker, designed to transcribe audio files into text for efficient data processing and storage.
+- **Technologies:** HTML, React, Python, FastAPI, OpenAI, SQLite, Docker
+- **Repository:** [Audio Transcription](https://github.com/chongwei-fsd/audio-transcription) (Link to GitHub repo)
 
 
 ## 🚀 Experience
