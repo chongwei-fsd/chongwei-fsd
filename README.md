@@ -62,6 +62,11 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 - **Description:**  The application is a full-stack solution with a React frontend, Python FastAPI backend, audio transcription using OpenAI's whisper-tiny model from Hugging Face, SQLite storage, and both frontend and backend services containerized with Docker, designed to transcribe audio files into text for efficient data processing and storage.
 - **Technologies:** HTML, React, Python, FastAPI, OpenAI, SQLite, Docker
 - **Repository:** [Audio Transcription](https://github.com/chongwei-fsd/audio-transcription) (Link to GitHub repo)
+  
+### 9. Simple RESTful API Bookstore
+- **Description:**  A simple Spring Boot-based bookstore application that leverages Java Persistence API (JPA) for database interactions, MySQL as the database backend, and Thymeleaf for rendering dynamic web pages. 
+- **Technologies:** HTML, CSS, Bootstrap, SpringBoot, Mysql, Thymeleaf
+- **Repository:** [Simple RESTful API Bookstore](https://github.com/chongwei-fsd/bookstore) (Link to GitHub repo)
 
 
 ## 🚀 Experience
