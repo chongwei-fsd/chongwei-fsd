@@ -67,6 +67,11 @@ Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 1
 - **Description:**  A simple Spring Boot-based bookstore application that leverages Java Persistence API (JPA) for database interactions, MySQL as the database backend, and Thymeleaf for rendering dynamic web pages. 
 - **Technologies:** HTML, CSS, Bootstrap, SpringBoot, Mysql, Thymeleaf
 - **Repository:** [Simple RESTful API Bookstore](https://github.com/chongwei-fsd/bookstore) (Link to GitHub repo)
+  
+### 10. Task & Event Management System (GUI/CLI)
+- **Description:**  A system to create, track, and manage tasks and events with deadlines, floating tasks, and search functionality, supporting both CLI and GUI interfaces with persistent storage.
+- **Technologies:** Java
+- **Repository:** [Task & Event Management System (GUI/CLI)](https://github.com/chongwei-fsd/Java_Todo_List_GUI) (Link to GitHub repo)
 
 
 ## 🚀 Experience
