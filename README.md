@@ -16,10 +16,13 @@ Mid-career professional transitioning from a successful career in Graphic Design
 - Git, GitHub
 
 ### Tools:
-- VS Code, IntelliJ, Postman
+- VS Code, IntelliJ, Postman, IP Switch
 
 ### Design:
 - Adobe Photoshop, Illustrator, InDesign
+
+### DevOps:
+- Shell Scripting, SFTP
 
 ## 💡 Projects
 
