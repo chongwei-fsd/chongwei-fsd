@@ -2,7 +2,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue)](https://chongwei-fsd.github.io/portfolio/)
 
-Welcome to my GitHub repository! I’m Chong Wei Lew, a recent graduate from a 13-week Full Stack Developer bootcamp, transitioning from a successful 8-year career in design and web development. With hands-on experience in both front-end and back-end technologies, I bring a unique blend of technical and creative skills. 
+Mid-career professional transitioning from a successful career in Graphic Design and Web Development to Full-Stack Development, with one year of experience as a System Engineer at Tata Consultancy Services. Experienced in managing automated finance file transfers using shell scripts and Ipswitch SFTP workflows, coordinating with clients and stakeholders, and ensuring smooth operational continuity. Possesses eight years of experience in Graphic Design and Web Development, specialising in HTML, CSS, JavaScript, React, Node, SQL, and Java with Spring Boot. Combines technical expertise with creative problem-solving to build intuitive, user-friendly, and efficient web applications. Seeking a Junior Full-Stack Developer role to contribute to collaborative teams and deliver high-quality solutions.
 
 ## 🛠 Tech Stack
 
